@@ -9,9 +9,9 @@ title: "Docs"
 S-CORE v0.5 module  
 S-CORE v1.0 module  
 
-![](images/docs/roadmap-1-3x.png)
+![](../images/docs/roadmap-1-3x.png)
 
-![](images/docs/roadmap-2-3x.png)
+![](../images/docs/roadmap-2-3x.png)
 
 ## Build & Documentation Toolchain
 
