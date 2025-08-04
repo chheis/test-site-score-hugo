@@ -12,8 +12,7 @@ S-CORE changes this by uniting OEMs, suppliers and developers around a common SW
 
 S-CORE (Safety – Community – Open Runtime Engine) is an open-source software framework for safety-critical automotive applications. It provides a standardized platform that abstracts hardware complexity and offers common services for automotive software components. By leveraging S-CORE, organizations can focus on innovation rather than re-solving foundational issues.
 
-![S-CORE Platform Layers](images/home/platform-layers-3x.png)
-
+![S-CORE Platform Layers](images/home/platform-layers-3x.png?width=120px&height=60px)
 *Illustration: S-CORE’s layered platform architecture enabling hardware abstraction, common services, and safety components.*
 
 ## Why Open Source for Automotive?
