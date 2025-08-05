@@ -1,6 +1,6 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "S-CORE"
+title = "Eclipse S-CORE"
 
 [menu]
 
@@ -12,7 +12,7 @@ title = "S-CORE"
 
   [[menu.main]]
     identifier = "news"
-    name       = "News & Events"
+    name       = "Events"
     url        = "/news/"
     weight     = 2
 
